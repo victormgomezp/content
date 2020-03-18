@@ -1,5 +1,5 @@
 ---
-title: "Cómo hacer preguntas de programación?"
+title: "¿Cómo hacer preguntas de programación?"
 subtitle: "La pregunta correcta, te llevará a la respuesta perfecta."
 tags: ["feedback", "tutoring", "support"]
 cover: "https://ucarecdn.com/4cc6fa0b-2530-4052-aa7e-8dac03788ac3/"
@@ -17,29 +17,29 @@ Primero que nada, te suplicamos que nos hagas preguntas constantemente, es la me
 - Te ayudamos a formular mejor tu pregunta (que es escencial para abordar Google.com).
 - Evitamos que te frustres y permitimos que sigas avanzando.
 
-# Es dificil formular una pregunta
+# Es difícil formular una pregunta
 
-Es comunmente conocido en el mundo de la programación que el verdadero reto no es encontrar la respuesta, sino formular la pregunta, esa es la verdadera habilidad. A medida que entiendas mejor iras haciendo preguntas mas detalladas y verás como Google se ira convirtiendo en la fuente principal de tus respuestas. 
+Es comunmente conocido en el mundo de la programación que el verdadero reto no es encontrar la respuesta, sino formular la pregunta, esa es la verdadera habilidad. A medida que entiendas mejor irás haciendo preguntas mas detalladas y verás como Google se irá convirtiendo en la fuente principal de tus respuestas. 
 
 Sin embargo, por ahora estamos nosotros aquí para ayudarte a preguntar o incluso responderte la pregunta.
 
-Stack Overflow es una de las paginas más importantes en el mundo de la programación y ha publicado el siguiente manual de como hacer preguntas: [how to ask questions by stack overflow](https://stackoverflow.com/help/how-to-ask).
+Stack Overflow es una de las paginas más importantes en el mundo de la programación y ha publicado el siguiente manual de cómo hacer preguntas: [how to ask questions by stack overflow](https://stackoverflow.com/help/how-to-ask).
 
 ## 1. Prepara tu pregunta con antelación
 
-Si preguntas simplemente lo primer que se te pasa por la mente es probable que no obtengas una respuesta rápidamente, la persona que lea tu pregunta va a tener muchas dudas al respecto, probablemente tengas que aclarar infinidad de cosas y termines tardando mucho mas tiempo.
+Si preguntas simplemente lo primero que se te pasa por la mente, es probable que no obtengas una respuesta rápidamente, la persona que lea tu pregunta va a tener muchas dudas al respecto, probablemente tengas que aclarar infinidad de cosas y termines tardando mucho mas tiempo.
 
 Comparemos estas dos preguntas:
 ```md
-1. Como puedo agregar un item a un array?
-2. Estoy intentando agregar un item a un array de la siguiente manera: blablabla... Este es mi ejemplo de codigo (sreenshot) pero no esta funcionando, ¿Ven algo malo?
+1. ¿Como puedo agregar un item a un array?
+2. Estoy intentando agregar un item a un array de la siguiente manera: blablabla... Este es mi ejemplo de codigo (sreenshot) pero no está funcionando, ¿Ven algo malo?
 ```
 
-¿Notas como la segunda pregunta es mucho más sencilla de responder? Probablemente tengas una respuesta en unos pocos minutos dado que sera muy sencillo revisar tu código y darte feedback en unas pocas lineas. ¿Quién sabe? ¡Tal vez es solo un error de tipeo!
+¿Notas como la segunda pregunta es mucho más sencilla de responder? Probablemente tengas una respuesta en pocos minutos dado que sera muy sencillo revisar tu código y darte feedback en unas pocas lineas. ¿Quién sabe? ¡Tal vez es sólo un error de tipeo!
 
 ## 2. Toma fotos y capturas de pantalla en lugar de copiar y pegar tu código.
 
-Todos tenemos dispositivos móviles diferentes, es probable que si pegas tu código en formato de texto de distorcione todo y se haga muy difícil su lectura. ¡Te suplicamos que subas una caputa de pantalla o incluso que tomes una foto a tu pantalla desde el celular! Puedes utilizar algun plugin para Google Chrome como [Awesome Screenshot](https://www.awesomescreenshot.com/).
+Todos tenemos dispositivos móviles diferentes, es probable que si pegas tu código en formato se texto de distorcione y se haga muy difícil su lectura. ¡Te suplicamos que subas una caputa de pantalla o incluso que tomes una foto a tu pantalla desde el móvil! Puedes utilizar algun plugin para Google Chrome como [Awesome Screenshot](https://www.awesomescreenshot.com/).
 
 
 ## 3. Se específico
@@ -48,13 +48,13 @@ No hagas preguntas como la siguiente
 
 > ¿Cómo puedo resolver este ejercicio?
 
-Seria mucho mejor que preguntáras:
+Sería mucho mejor que preguntáras:
 
-> No se como empezar este ejercicio, ¿Qué me recomiendan?
+> No sé como empezar este ejercicio, ¿Qué me recomiendan?
 
-Tambien podrías preguntar:
+También podrías preguntar:
 
-> He intentado resolver este ejercicio haciendo -esto o lo otro-, ¿Que estoy haciendo mal?
+> He intentado resolver este ejercicio haciendo -ésto o lo otro-, ¿Qué estoy haciendo mal?
 
 ## 4. Investiga por tu cuenta antes de preguntar
 
