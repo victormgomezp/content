@@ -162,7 +162,7 @@ Las tags mas utilizadas dentro del `<body>` de un documento HTML son las siguien
 ***
 Ya sabemos que cada  `<tag>` tiene un comportamiento diferente. Gracias a ellas podemos cambiar el tamaño de la letra - como ocurre con los headings - agregar márgenes entre párrafos, enumerar elementos, etc.
 
-Si quieres especificar más cel comportamiento de un tag en particular, puedes utilizar sus atributos. Para usarlos debes definirlos en el tag de apertura así:
+Si quieres especificar más el comportamiento de un tag en particular, puedes utilizar sus atributos. Para usarlos debes definirlos en el tag de apertura así:
 
 ```html
 <img src="http://www.mydomain.com/myimage.png" />
